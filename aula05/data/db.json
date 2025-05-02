@@ -1,0 +1,25 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Lucas",
+            "idade": 20,
+            "curso": "Engenharia de Software",
+            "email": "lucas@gmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "Ana",
+            "idade": 22,
+            "curso": "Ciência da Computação",
+            "email": "ana@gmail.com"
+        },
+        {
+            "id": 3,
+            "nome": "Carlos",
+            "idade": 21,
+            "curso": "Sistemas de Informação",
+            "email": "carlos@hotmail.com"
+        }
+    ]
+}
